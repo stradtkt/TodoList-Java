@@ -2,4 +2,4 @@ com\stradtkt\controller\DemoController.class
 com\stradtkt\config\WebConfig.class
 com\stradtkt\service\DemoService.class
 com\stradtkt\service\DemoServiceImpl.class
-com\stradtkt\config\WellAppInitializer.class
+com\stradtkt\config\WebAppInitializer.class
