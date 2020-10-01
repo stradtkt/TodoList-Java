@@ -1,2 +1,3 @@
-com\stradtkt\config\WellAppInitializer.class
+com\stradtkt\controller\DemoController.class
 com\stradtkt\config\WebConfig.class
+com\stradtkt\config\WellAppInitializer.class
