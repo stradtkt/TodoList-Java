@@ -1,5 +1,12 @@
-com\stradtkt\controller\DemoController.class
-com\stradtkt\config\WebConfig.class
+com\stradtkt\controller\TodoItemController.class
 com\stradtkt\service\DemoService.class
+com\stradtkt\util\Mappings.class
+com\stradtkt\controller\DemoController.class
+com\stradtkt\util\ViewNames.class
+com\stradtkt\service\TodoItemServiceImpl.class
+com\stradtkt\model\TodoItem.class
+com\stradtkt\service\TodoItemService.class
+com\stradtkt\config\WebConfig.class
 com\stradtkt\service\DemoServiceImpl.class
 com\stradtkt\config\WebAppInitializer.class
+com\stradtkt\model\TodoData.class
