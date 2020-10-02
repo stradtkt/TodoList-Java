@@ -1,4 +1,5 @@
 com\stradtkt\controller\TodoItemController.class
+com\stradtkt\util\AttributeNames.class
 com\stradtkt\service\DemoService.class
 com\stradtkt\util\Mappings.class
 com\stradtkt\controller\DemoController.class

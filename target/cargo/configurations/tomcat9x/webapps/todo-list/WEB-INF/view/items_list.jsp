@@ -15,13 +15,17 @@
         <table border="1" cellpadding="5">
             <caption><h2>Todo Items</h2></caption>
             <tr>
+                <th>ID</th>
                 <th>Title</th>
                 <th>Deadline</th>
+                <th>Details</th>
             </tr>
             <c:forEach var="item" items="${todoData.items}">
                 <tr>
+                    <td><c:out value="${item.id}"/></td>
                     <td><c:out value="${item.title}"/></td>
                     <td><c:out value="${item.deadline}"/></td>
+                    <td><c:out value="${item.details}"/></td>
                 </tr>
             </c:forEach>
         </table>
